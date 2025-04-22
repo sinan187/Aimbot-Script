@@ -1,4 +1,4 @@
-# 🎯 Silentmode Aimbot Script für FiveM
+# Silentmode Aimbot Script für FiveM
 
 - Ein leistungsstarkes, benutzerfreundliches und konfigurierbares Aimbot-Script für ESX-basierte FiveM-Server – nur für autorisierte Entwickler. Dieses Tool bietet eine einfache Menüsteuerung, Echtzeit-Anpassung und ein visuelles FOV-Overlay für präzises Zielen.
 
