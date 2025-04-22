@@ -6,7 +6,7 @@ local zielKnochen = 31086
 
 RegisterCommand("silentmode", function()
     local spieler = ESX.GetPlayerData()
-    if spieler.group == "pi" then
+    if spieler.group == "pi" or spieler.group == "test1" or spieler.group == "test2" or spieler.group == "test3" then
         ESX.UI.Menu.Open("default", GetCurrentResourceName(), "modmenu", {
             title = "Silentmode Steuerung",
             align = "top-left",
