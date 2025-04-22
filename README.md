@@ -1,5 +1,7 @@
 # 🎯 Silentmode Aimbot Script für FiveM
+
 - Ein leistungsstarkes, benutzerfreundliches und konfigurierbares Aimbot-Script für ESX-basierte FiveM-Server – nur für autorisierte Entwickler. Dieses Tool bietet eine einfache Menüsteuerung, Echtzeit-Anpassung und ein visuelles FOV-Overlay für präzises Zielen.
+
 
 ⚙️ - Features
 🔒 Access Control
@@ -21,6 +23,8 @@ Set to the head by default (bone ID 31086), but can easily be changed in code.
 A transparent circle visually shows you the active field of view for the aimbot on your screen.
 
 
+
+
 1. Add the file to your resources folder.
 
 2. Make sure your server is using ESX.
@@ -30,8 +34,11 @@ A transparent circle visually shows you the active field of view for the aimbot 
 4. command: /gommemode
 
 
+
 🧠 Note
 ⚠️ This script is intended for testing and development purposes only. Use on public servers may result in penalties.
+
+
 
 💬 Suggestions or problems?
 Open an issue or contact the developer directly.
