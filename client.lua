@@ -1,3 +1,5 @@
+ESX = exports["es_extended"]:getSharedObject()
+
 -- Initiale Aimbot-Einstellungen
 local aimbotAktiviert = true
 local zielVerfolgung = 0.5 --standart
